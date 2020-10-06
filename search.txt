@@ -1,0 +1,6 @@
+all git commands
+git log - it will show all the info
+git add - we need to push the code in staging area
+git commit -m -- it will push the code stage are to local repositary
+git push -- it will push the code local repositary to remote repositary
+
